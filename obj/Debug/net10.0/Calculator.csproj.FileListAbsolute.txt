@@ -1,0 +1,14 @@
+/Users/za/PF/Calculator/bin/Debug/net10.0/Calculator
+/Users/za/PF/Calculator/bin/Debug/net10.0/Calculator.deps.json
+/Users/za/PF/Calculator/bin/Debug/net10.0/Calculator.runtimeconfig.json
+/Users/za/PF/Calculator/bin/Debug/net10.0/Calculator.dll
+/Users/za/PF/Calculator/bin/Debug/net10.0/Calculator.pdb
+/Users/za/PF/Calculator/obj/Debug/net10.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/za/PF/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfoInputs.cache
+/Users/za/PF/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfo.cs
+/Users/za/PF/Calculator/obj/Debug/net10.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/za/PF/Calculator/obj/Debug/net10.0/Calculator.dll
+/Users/za/PF/Calculator/obj/Debug/net10.0/refint/Calculator.dll
+/Users/za/PF/Calculator/obj/Debug/net10.0/Calculator.pdb
+/Users/za/PF/Calculator/obj/Debug/net10.0/Calculator.genruntimeconfig.cache
+/Users/za/PF/Calculator/obj/Debug/net10.0/ref/Calculator.dll
